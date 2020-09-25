@@ -1,22 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -33,19 +14,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SourceBans Laravel Remake</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/readme.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/github.com/sNok3/SourceBans-Laravel-Remake/">Request Feature</a>
   </p>
 </p>
 
@@ -96,8 +77,6 @@ Packages used in this project:
 * [Laravel Permissions](https://packagist.org/packages/spatie/laravel-permission)
 
 
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -128,7 +107,6 @@ const API_KEY = 'ENTER YOUR API';
 ```
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -136,15 +114,12 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -157,14 +132,12 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the GNU License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
 ## Contact
 
 Denis L. Neagoe - [@your_twitter](https://twitter.com/your_username) - email@example.com
@@ -173,7 +146,6 @@ Project Link: [https://github.com/sNok3/SourceBans-Laravel-Remake](https://githu
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -191,8 +163,6 @@ Project Link: [https://github.com/sNok3/SourceBans-Laravel-Remake](https://githu
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
