@@ -85,10 +85,14 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
+Frameworks used in this project:
+* [Tainwind CSS](https://tailwindcss.com/)
 * [JQuery](https://jquery.com)
 * [Laravel](https://laravel.com)
+
+Packages used in this project:
+* [Steam API (Laravel < 8)](https://packagist.org/packages/syntax/steam-api)
+* [Laravel Permissions](https://packagist.org/packages/spatie/laravel-permission)
 
 
 
