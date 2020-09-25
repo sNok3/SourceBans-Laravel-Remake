@@ -47,24 +47,6 @@
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-<ul>
-  <li>* [About the Project](#about-the-project)</li>
-  <ul>
-   <li>* [Built With](#built-with)</li>
-  </ul>
-  <li>* [Getting Started](#getting-started)</li>
-  <ul>
-   <li>* [Prerequisites](#prerequisites)</li>>
-   <li>* [Installation](#installation)</li>
-  </ul>
-  <li>[Usage](#usage)</li>
-  <li>[Roadmap](#roadmap)</li>
-  <li>[Contributing](#contributing)</li>
-  <li>[License](#license)</li>
-  <li>[Contact](#contact)</li>
-  <li>[Acknowledgements](#acknowledgements)</li>
- </ul>
-
 
 
 <!-- ABOUT THE PROJECT -->
