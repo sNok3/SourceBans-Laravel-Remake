@@ -72,7 +72,7 @@ Frameworks used in this project:
 * [Laravel](https://laravel.com)
 
 Packages used in this project:
-* [Steam API (Laravel < 8)](https://packagist.org/packages/syntax/steam-api)
+* [Steam API (Laravel < 8)](https://packagist.org/packages/syntax/steam-api) (Updated by us for Laravel 8)
 * [Steam ID](https://packagist.org/packages/xpaw/steamid)
 * [Laravel Permissions](https://packagist.org/packages/spatie/laravel-permission)
 
