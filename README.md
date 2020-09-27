@@ -144,7 +144,7 @@ Distributed under the GNU License. See `LICENSE` for more information.
  
 **Scai**
  1. Discord: **Scai#8477**
- 2. Steam: [https://steamcommunity.com/id/ploideseptembrie/]**(https://steamcommunity.com/id/ploideseptembrie/)**
+ 2. Steam: [https://steamcommunity.com/id/ploideseptembrie](https://steamcommunity.com/id/ploideseptembrie/)
 
 Project Link: [https://github.com/sNok3/SourceBans-Laravel-Remake](https://github.com/sNok3/SourceBans-Laravel-Remake)
 
