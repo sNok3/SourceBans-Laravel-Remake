@@ -139,8 +139,9 @@ Distributed under the GNU License. See `LICENSE` for more information.
 ## Contact
 
 **sNok3**
- - Discord: sNok3#1316
- - Steam:  
+ - Discord: **sNok3#1316**
+ - Steam:
+ 
 **Scai**
  - Discord: **Scai#8477**
  - Steam: [https://steamcommunity.com/id/ploideseptembrie](https://steamcommunity.com/id/ploideseptembrie/)
