@@ -17,12 +17,12 @@
   <h3 align="center">SourceBans Laravel Remake</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Global admin, ban, and communication management system for the Source engine.
     <br />
     <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/readme.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/Best-README-Template">View Demo</a>
+    <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/issues/new">Create an issue</a>
     ·
     <a href="https://github.com/sNok3/SourceBans-Laravel-Remake/issues">Report Bug</a>
     ·
