@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sNok3/SourceBans-Laravel-Remake">
-    <img src="https://raw.githubusercontent.com/sbpp/sourcebans-pp/v1.x/.github/logo.png" alt="Logo" width="80" height="80">
+    <img src="x" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">SourceBans Laravel Remake</h3>
