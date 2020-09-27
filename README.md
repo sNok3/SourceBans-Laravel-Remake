@@ -67,8 +67,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Built With
 Frameworks used in this project:
-* [Tainwind CSS](https://tailwindcss.com/)
-* [JQuery](https://jquery.com)
+* [Tainwind CSS](https://tailwindcss.com)
 * [Laravel](https://laravel.com)
 
 Packages used in this project:
