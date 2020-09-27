@@ -141,13 +141,11 @@ Distributed under the GNU License. See `LICENSE` for more information.
 **sNok3**
  1. Discord: sNok3#1316
  2. Steam:
- 
 **Scai**
  1. Discord: **Scai#8477**
  2. Steam: [https://steamcommunity.com/id/ploideseptembrie](https://steamcommunity.com/id/ploideseptembrie/)
 
 Project Link: [https://github.com/sNok3/SourceBans-Laravel-Remake](https://github.com/sNok3/SourceBans-Laravel-Remake)
-
 Original Project: [https://github.com/sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp)
 
 
