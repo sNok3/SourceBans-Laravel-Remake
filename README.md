@@ -54,16 +54,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+If you're a Source Engine server owner you might have heard of SourceBans at least once. SourceBans works on web and server sides, helping the server's administration with tasks and the owners with configuring and having acces to the server without being connected. SourceBans is a great source for logs and data, retrieved dinamically from the server's Database.
+SourceBans Laravel Remake is actually the remake of the already existing SourceBans, made with PHP and other frameworks and libraries.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Here's why you should consider updating to Laravel:
+* In this version of SourceBans, you will have the same functions from the original SourceBans, but updated to the latest versions of the frameworks.
+* Top security (as much as possible for PHP) by using Laravel Jetstream's authentification system and also the Steam Login system.
+* Fast Databse queries which retrieve the data in real time using Livewire.
+* Installation, configuration and use is more user-friendly and dev-friendly, as you can change everything just as you like.
+* These past years the "Dark Mode" or "Dark Theme" has gained a lot of popularity and for that we decided to use the Tailwind CSS framework, along with different scripts, to give the possibility of having the "Dark Mode" on the web panel either by using the switch, either by using the systems (Window's) default theme.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Of course, these are just some of the updates we've done to the original project.
 
 ### Built With
 Frameworks used in this project:
@@ -136,42 +137,12 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the GNU License. See `LICENSE` for more information.
 
 
-
 ## Contact
 
-Denis L. Neagoe - [@your_twitter](https://twitter.com/your_username) - email@example.com
+sNok3 - sNok3#1316
+
+Scai - Scai#8477
 
 Project Link: [https://github.com/sNok3/SourceBans-Laravel-Remake](https://github.com/sNok3/SourceBans-Laravel-Remake)
 
-
-
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+Original Project: [https://github.com/sbpp/sourcebans-pp](https://github.com/sbpp/sourcebans-pp)
